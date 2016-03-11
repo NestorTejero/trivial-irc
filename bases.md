@@ -5,6 +5,9 @@
   * [Master equipos](#master-equipos)
   * [Torneo posiciones](#posiciones)
 
+* [Equipos y capitanes](#equipos)  
+
+
 
 <div id='competiciones'/>
 ## Competiciones del torneo
@@ -80,3 +83,14 @@ En caso de empates entre dos o más jugadores, la puntuación asignada a ambos s
 Al final, el ganador será el equipo que obtenga mayor puntuación tras sumar los puntos de cada uno de sus diez miembros, por eso es importante una afluencia bastante alta de jugadores.
 
 En caso de empates entre equipos, se da prioridad al equipo con más victorias; si persiste el empate, al que más segundos puestos haya obtenido y así hasta que deshagamos el empate.
+
+
+## Equipos y capitanes
+
+Los equipos deben estar constituidos por entre 5 y 10 jugadores, que deberán tener registrados los nicks con los que se inscriban al torneo desde el momento de la inscripción, y obligatoriamente deben tener un capitán, elegido por los jugadores del equipo. **Ningún jugador inscrito en el torneo (sea en la fase que sea) podrá participar en dos o más equipos de torneo, únicamente podrá formar parte de una plantilla.**
+
+El capitán del equipo será su portavoz y representante ante el resto del torneo en asuntos oficiales del mismo (votaciones, reclamaciones, etc), pudiendo delegar en otro si en alguna ocasión no puede ejercer esa labor. El puesto de capitán puede desempeñarlo alguien que no juegue el torneo, pero una misma persona no puede ser el capitán de varios equipos o ser el capitán de un equipo y pertenecer a otro. 
+
+Para llevar a cabo sus funciones representativas, el capitán pertenecerá al [grupo privado de Capitanes](http://www.trivial-irc.es/phpBB2/viewforum.php?f=5) del foro oficial, y en caso de cambio de capitán debe notificarlo a la coordinación para actualizar las listas de acceso. 
+
+En caso de reiterada conducta inadecuada del capitán (no cumplir con sus labores, sanciones por el comité de reclamaciones, molestar, etc), la coordinación del torneo se reserva el derecho de inhabilitar a un capitán y que su equipo elija otro. 
