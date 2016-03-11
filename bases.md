@@ -39,6 +39,10 @@
   * [Uso de bots o antiscripts](#bots)
   * [Pertenencia de un jugador a dos o más equipos simultáneamente](#dos-equipos)
   * [Nuevas sanciones](#nuevas-sanciones)
+ 
+* [Consideraciones finales](#consideraciones-finales)
+* [REVISIÓN Y MODIFICACIÓN DE LAS NORMAS](#revision-normas)
+
 
 # Competiciones del torneo
 
@@ -405,3 +409,28 @@ Insultos: (Esta infracción no se considerará para el computo acumulativo de sa
 Sanción de equipo: Cuando un equipo lleve tres sanciones acumuladas, se sancionará al equipo con una partida sin jugar, ya que tres partidas se cree que es suficiente margen como para que un equipo tome medidas ante la reincidencia en las trampas de un jugador. Si las sanciones llegan a cinco acumuladas, el equipo será expulsado del torneo a perpetuidad. 
 
 Sanciones incumplidas en el torneo en curso: Para evitar cambios de nicks de jugadores de un torneo a otro y que las sanciones queden como un mero registro, no se podrá cambiar a un jugador hasta que se haya cumplido el periodo de sanción establecido para él, en el caso en que este abandone el torneo y no haya cumplido su sanción. Por ejemplo si el jugador fulanito jugaba en menganitos y la ultima jornada se le sancionó con una partida, si deja el torneo, menganitos no podrá sustituirlo hasta la segunda jornada. Y cuando fulanito vuelva a jugar el torneo cumplirá su sanción a nivel individual.
+
+<div id="consideraciones-finales" />
+## Consideraciones finales
+El desconocimiento de estas normas no exime de su cumplimiento.
+
+Las sanciones tienen un carácter sumativo, esto es que la sanción por dos hechos diferentes implican la misma sanción para los casos de reincidencia recogidos en cada apartado.
+
+En el caso de que el bot, por cualquier motivo, no contabilice los aciertos de un jugador a pesar de estar bien escrito, el comité de reclamaciones contabilizará y sumará los puntos que le correspondan, tanto a nivel individual como de equipo, mediante la consulta del log del script. Para ello el scripter, el jugador en cuestión, su capitán, compañeros, etc. tendrá que poner en conocimiento del comité dicho hecho. En el caso de estar mal y no haberse dado cuenta mientras se hacían las pasadas de equipos pertinentes, no se le sumarán los puntos.
+
+Estas normas derogan toda norma anterior o no localizada en esta página. 
+
+De cara al RJTI los jugadores sancionados constará como que no han asistido a la partida y se les colocará en la última posición. 
+Los jugadores que, a fecha de la aprobación de estas normas, hayan sido sancionados desde que existe el torneo Trivial-IRC, serán considerados reincidentes en caso de volver a ser sancionados y les sancionará a tal efecto. 
+
+<div id="revision-normas" />
+## REVISIÓN Y MODIFICACIÓN DE LAS NORMAS
+
+Cualquier jugador del torneo podrá presentar alegaciones a estas normas, para lo cual se seguirá el siguiente procedimiento:
+
+1. Presentar el apoyo de al menos el 15% de jugadores del torneo. Para ello deberá enviar un mail a la coordinación o al hilo del Torneo en el foro, indicando el nick de quien propone el cambio, la norma que se quiere cambiar y los nicks de los jugadores que apoyan esa propuesta de cambio. 
+2. Una vez presentada la propuesta de cambio con los apoyos necesarios, será sometida a votación. Para ser aprobada definitivamente será necesario que haya una participación mínima del 50% de los equipos y bastará con que una mayoría simple de esos equipos vote a favor. 
+
+Para casos excepcionales en los que la propuesta afecte directamente a la jugabilidad del torneo o a su esencia (ejemplos hipotéticos: cambio de hora de las partidas, traslado del torneo del irc al msn messenger,), la votación se hará a nivel individual, y será tambien necesaria la mayoría simple con el requisito de un mínimo de participación del 70% de jugadores. 
+
+El resultado de una norma que haya sido votada tendrá una vigencia mínima de un año, con lo cual no se podrá volver a someter a votación hasta pasado ese tiempo.
