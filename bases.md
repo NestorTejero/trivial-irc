@@ -20,6 +20,12 @@
 * [Scripters](#scripters)
   * [Acierto de pilila](#pililazo)
 
+* [Estructura del torneo](#estructura-torneo)
+  * [Fase regular](#fase-regular)
+  * [Play-offs](#play-offs)
+  * [Ascensos y Descensos](#ascensos-descensos)
+  * [Promociones](#promociones)
+
 # Competiciones del torneo
 
 El calendario estará disponible en la web del torneo, e incluirá todas las partidas oficiales del mismo, indicando los enfrentamientos entre los equipos, canales donde se juegue y scripters de las partidas. 
@@ -176,3 +182,64 @@ Al final de la partida del torneo, el scripter debe enviar el archivo de resulta
 <div id="pililazo" />
 ### Acierto de pilila
 Si en el transcurso de una pregunta, el bot concede acierto a algún jugador cuya respuesta haya sido escrita antes de la aparición del enunciado, dicha pregunta se considerará nula. Será el log del bot el que determine el orden exacto de los mensajes. Al final de la partida se descontarán todos los puntos otorgados en dicha pregunta y en su lugar se jugará una pregunta adicional, con el bot configurado de tal manera que el tema jugado sea el mismo que el de la pregunta invalidada. 
+
+<div id="estructura-torneo" />
+## Estructura del torneo
+Torneo: 
+
+Se dividirá en Divisiones, en las que el número de equipos variará según las necesidades del calendario. 
+
+En cada división habrá una clasificación por equipos y una clasificación individual. Además, habrá una clasificación para todos los jugadores indistintamente de la división a la que pertenezcan, llamada RJTI (Ranking de Jugadores de Trivial-IRC).
+
+* Las clasificaciones individuales se elaborarán en base al número total de aciertos en la fase regular del torneo de cada jugador. 
+* El RJTI seguirá un modelo aún por determinar, pero sólo se calcula con los resultados de la fase regular. 
+* La clasificación de equipos se hará de la siguiente manera: Se sumarán los puntos obtenidos por cada equipo durante la fase regular, y en función de los puntos resultantes se establecerá la clasificación final. Estos puntos se asignarán de la siguiente manera: en partidas de 3 equipos, el ganador obtendrá 4, el segundo clasificado 2 y el tercer clasificado 1. Para partidas de 2 equipos el equipo ganador obtendrá 3 puntos y el segundo 1. 
+ 
+En caso de empate a puntos entre dos o más equipos al finalizar la fase regular, su posición final se establecerá siguiendo los siguientes criterios, y por orden: 
+
+1. Balance de victorias/derrotas en los enfrentamientos directos de los equipos implicados. 
+2. Mejor diferencia de puntos en los enfrentamientos directos de los equipos implicados. 
+3. Mayor número de puntos conseguidos en las partidas. 
+
+En cada torneo, la distribución de los equipos en las divisiones será correspondiente a la clasificación final en el torneo anterior. 
+
+En cada torneo se distinguirá: 
+
+<div id="fase-regular" />
+### Fase regular
+Las cuatro primeras partidas del torneo, en forma de liguilla entre los equipos de cada división. Opcionalmente, y según la estructura de la división más baja, podría incluirse para esta división una 5ª partida de fase regular, que se jugaría durante los play-offs del resto de divisiones. 
+ 
+<div id="play-offs" />
+### Play-offs
+Partidas entre los primeros clasificados de la primera división para determinar al campeón del torneo, y entre los clasificados intermedios de cada división y los de la inmediatamente inferior para decidir los ascensos y descensos. 
+
+La distribución sería la siguiente: 
+
+Primera división: 
+
+* Cuartos de final: 
+````
+A > 3º contra 6º 
+B > 4º contra 5º 
+````
+
+* Semifinales: 
+````
+C > 2º contra ganador de A 
+D > 1º contra ganador de B 
+````
+
+* Final:
+````
+Ganadores de C y D 
+````
+
+<div id="ascensos-descensos" />
+### Ascensos y Descensos
+
+Los 2 últimos equipos de cada división pasan inmediatamente a la división inferior. Sus plazas las ocupan los 2 primeros clasificados de esa división. 
+
+<div id="promociones" />
+### Promociones
+
+7º de cada división contra 3º de la inferior. 
