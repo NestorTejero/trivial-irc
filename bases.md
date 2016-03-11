@@ -304,7 +304,7 @@ El puesto tiene duración anual y será elegido por votación entre los candidat
 
 3. Las quejas referentes a alguna partida del Torneo, sólo se tendrán en cuenta si dicha queja ha llegado hasta el Comité de Reclamaciones en un plazo de 5 días a partir de del día de la partida. 
 
-4. El Comité podrá actuar de oficio. Tomará decisiones respecto a un tema si recibe una queja concreta o existe sospecha de una irregularidad. Mediante un portavoz comunicará el veredicto en el hilo de Reclamaciones. 
+4. El Comité podrá actuar de oficio. Tomará decisiones respecto a un tema si recibe una queja concreta o existe sospecha de una irregularidad. Mediante un portavoz comunicará el veredicto en el [hilo de Reclamaciones](http://www.trivial-irc.es/phpBB2/viewforum.php?f=27).
 
 5. Ni lag, ni splits, ni problemas en la red ajenos a la Organización del Torneo, son motivos de repetición de una partida. No obstante, el scripter encargado de la partida deberá anunciar claramente por qué servidor conectará el Script antes del comienzo de la partida. En el caso de que caiga el bot en el momento de lanzar la pregunta, se vea o no en pantalla, y acto seguido vuelva al canal, se acierte o no se acierte, se considerará esa pregunta como nula y tras la pregunta 35 se procederá a su repetición. 
 
