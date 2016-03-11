@@ -1,5 +1,10 @@
 # Tabla de contenidos
-1. [Competiciones del torneo](#competiciones)
+* [Competiciones del torneo](#competiciones)
+* [Torneo](#torneo)
+* [Otras competiciones](#otras-competiciones)
+** [Master equipos](#master-equipos)
+** [Torneo posiciones](#posiciones)
+
 
 <div id='competiciones'/>
 ## Competiciones del torneo
@@ -8,7 +13,8 @@ El calendario estará disponible en la web del torneo, e incluirá todas las par
 
 Para cualquiera de estas competiciones, el bot concederá un punto a cada jugador que acierte la respuesta a la pregunta planteada en los 2 segundos siguientes al primer acierto. La puntuación de cada equipo será la suma de los puntos de sus jugadores participantes en la correspondiente competición. Las puntuaciones de jugadores y equipos pueden verse modificadas tras la partida en caso de que prospere una reclamación y el comité de reclamaciones considere oportuna una corrección. 
 
-### Torneo
+<div id='torneo'/>
+## Torneo
 
 Se divide en dos partes. La primera de ellas, llamada fase regular, consiste en una liguilla entre los equipos de cada división. Una vez finalizada dicha liguilla, y según la posición obtenida por los equipos, se disputará una segunda fase en la que participarán solamente aquellos equipos que luchen por el título y aquellos que participen en las promociones de ascenso/descenso. 
 
@@ -21,6 +27,7 @@ En caso de empate entre dos o más equipos en una partida:
 * Si la partida pertenece a la fase regular, los puntos obtenidos por cada equipo serán los correspondientes a la media de las puntuaciones de los puestos implicados. 
 * Si la partida pertenece a la fase eliminatoria y el empate se produce en posiciones clasificatorias, los equipos implicados disputarán 3 preguntas más para dilucidar el empate. En caso de seguir empatados, seguirán disputando series de 3 preguntas hasta que se deshaga el empate.
 
+<div id='copa'/>
 ## Copa
 
 Se juega con formato de eliminatorias, pasando los 3 equipos mejor clasificados a la fase siguiente, hasta que sólo queden 6 equipos, que participarán en la final. La copa se juega los jueves de las semanas correspondientes al torneo a las 23h. Los equipos se presentan sin más. En cada partida jugará un máximo de 4 jugadores, que podrán variar a lo largo de las eliminatorias. El que en una partida participen (contestan a una pregunta) 5 jugadores o más será sancionable por el comité de reclamaciones.
@@ -44,15 +51,17 @@ En caso de empate en las posiciones clasificatorias al final de una partida, los
 
 El campeón individual de la copa será el jugador que haya conseguido más puntos a lo largo de toda la competición. 
 
-
+<div id='otras-competiciones'/>
 ## Otras competiciones: 
 Para cualquier otra competición organizada por la coordinación del torneo, salvo que se diga expresamente lo contrario, será necesario pertenecer a un equipo del torneo para poder participar, y se aplicarán las mismas normas que en el torneo. 
 
 En el momento de redactar estas normas, el torneo incluye además las siguientes competiciones: 
 
+<div id='master-equipos'/>
 ### Master por equipos
 Se inscriben 3 jugadores por equipo, pero juegan sólo 2 cada partida. Si contestan los 3, los mismos efectos que en copa. Se organiza en semifinales y final, a la que acceden los 6 primeros equipos de cada semifinal.
 
+<div id='posiciones'/>
 ### Torneo Posiciones
 Se jugarán un total de nueve grupos divididos en dos días. Los ocho primeros grupos los formarán un jugador de cada equipo ordenados según su posición interna en su equipo, mientras que el 9º grupo lo jugarán los dos miembros de cada equipo con inferior posición (9º y 10º según el criterio descrito a continuación)
 
