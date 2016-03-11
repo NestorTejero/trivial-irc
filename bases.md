@@ -17,7 +17,10 @@
   * [Equipos nuevos](#equipos-nuevos)
   * [Plazos](#plazos)
 
-# [Competiciones del torneo](#competiciones)
+* [Scripters](#scripters)
+  * [Acierto de pilila](#pililazo)
+
+# Competiciones del torneo
 
 El calendario estará disponible en la web del torneo, e incluirá todas las partidas oficiales del mismo, indicando los enfrentamientos entre los equipos, canales donde se juegue y scripters de las partidas. 
 
@@ -146,3 +149,30 @@ Sólo pueden realizarse de un torneo para el siguiente. Para cambiar el nombre d
 ### Asistencia mínima
 Al menos 4 jugadores de cada equipo deben participar en cada jornada regular del torneo. De no ser así, se entenderá que los jugadores del equipo han sido inscritos para "ocupar plaza" y el equipo será sancionado con un torneo sin participar.Al menos 3 jugadores de cada equipo deben participar en cada jornada regular del torneo. De no ser así, se entenderá que los jugadores del equipo han sido inscritos para "ocupar plaza". Cuando esto ocurra por primera vez, el equipo será apercibido, de modo que si vuelve a suceder en alguna de las siguientes 4 partidas será sancionado con un torneo sin participar.
 En el caso de que un 70% de los jugadores del equipo coincideran con el que recibió el apercibimiento, se considería el mismo equipo y por tanto la sanción se aplicaría. 
+
+
+<div id="scripters" />
+## Scripters
+La participación como scripter es voluntaria. 
+
+Tienen el deber de estar inscritos en el grupo privado de Scripters, y a este efecto, toda persona que desee ser scripter debe comunicarlo a la coordinación del torneo para ser incluido en dicha lista así como en la lista de scripters de la web y ser tenido en cuenta a la hora de asignar partidas. 
+
+Se les aconseja estar en el canal #scripters-torneo durante los días de partida (incluso aunque no scripteen) para ser informados de posibles circunstancias especiales o pedir voluntarios para scriptear una partida en caso de problemas. 
+
+Los scripters tendrán @ en los canales del torneo, y por tanto serán los encargados de mantener el orden durante la partida, expulsando a cualquiera que entorpezca el desarrollo de la partida (en caso de ser un jugador, en primera instancia el scripter deberá avisar al jugador de su actitud incorrecta y su posible sanción, así como al capitán de su equipo). De reincidir, el scripter podrá expulsar al jugador del canal, tras lo que deberá notificarlo al comité de reclamaciones para que tome las medidas oportunas. 
+
+La asignación de scripters será hecha por la coordinación en los plazos que le parezcan adecuados, procurando anunciar los scripteos al menos con 5 días de antelación a las partidas correspondientes. Estas asignaciones no tendrán carácter definitivo, de forma que si algún scripter tiene algún impedimento para no poder scriptear su partida, puede solicitar a otro que le sustituya, o pedir un voluntario a través de la lista de trivialircscripters. 
+
+Las partidas se scriptearán en modo torneo; se recomienda al scripter que se presente al menos 10 minutos antes de la partida y haga varios pases de equipos antes de ella para que los capitanes puedan confirmar que los nicks y colores son los correctos. En caso de no serlo, el scripter deberá corregir la base de datos o notificar a la coordinación de plantillas o a la coordinación el error y solicitar una base de datos corregida. 
+
+Es obligatorio mostrar 2 veces los equipos antes de comenzar la partida, y una vez más tras cada corrección. 
+
+En caso de problemas o dudas durante la partida, el capitán del equipo podrá consultar a través de privado con el scripter. Además el scripter y los capitanes estarán en un canal aparte para que en caso de problemas éstos puedan ser resueltos lo antes posible. En caso de duda del scripter, podrá preguntar a la coordinación. 
+
+Para evitar posibles problemas, el scripter podrá poner el modo +R en el canal en que se esté desarrollando la partida, de manera que únicamente puedan acceder los nicks registrados. 
+
+Al final de la partida del torneo, el scripter debe enviar el archivo de resultados generado por el bot ayudándose del menú de scripters en la web . En caso de problemas, como la pérdida de puntos por nick incorrecto o una reclamación por trampas, el scripter debe hacer llegar el log de la partida al comité de reclamaciones, y en caso de que lo soliciten, a los capitanes de los equipos participantes en la partida. 
+
+<div id="pililazo" />
+### Acierto de pilila
+Si en el transcurso de una pregunta, el bot concede acierto a algún jugador cuya respuesta haya sido escrita antes de la aparición del enunciado, dicha pregunta se considerará nula. Será el log del bot el que determine el orden exacto de los mensajes. Al final de la partida se descontarán todos los puntos otorgados en dicha pregunta y en su lugar se jugará una pregunta adicional, con el bot configurado de tal manera que el tema jugado sea el mismo que el de la pregunta invalidada. 
