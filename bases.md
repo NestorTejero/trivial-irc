@@ -155,7 +155,7 @@ En el caso de que un 70% de los jugadores del equipo coincideran con el que reci
 ## Scripters
 La participación como scripter es voluntaria. 
 
-Tienen el deber de estar inscritos en el grupo privado de Scripters, y a este efecto, toda persona que desee ser scripter debe comunicarlo a la coordinación del torneo para ser incluido en dicha lista así como en la lista de scripters de la web y ser tenido en cuenta a la hora de asignar partidas. 
+Tienen el deber de estar inscritos en el [grupo privado de Scripters](http://www.trivial-irc.es/phpBB2/viewforum.php?f=10), y a este efecto, toda persona que desee ser scripter debe comunicarlo a la coordinación del torneo para ser incluido en dicha lista así como en la lista de scripters de la web y ser tenido en cuenta a la hora de asignar partidas. 
 
 Se les aconseja estar en el canal #scripters-torneo durante los días de partida (incluso aunque no scripteen) para ser informados de posibles circunstancias especiales o pedir voluntarios para scriptear una partida en caso de problemas. 
 
@@ -171,7 +171,7 @@ En caso de problemas o dudas durante la partida, el capitán del equipo podrá c
 
 Para evitar posibles problemas, el scripter podrá poner el modo +R en el canal en que se esté desarrollando la partida, de manera que únicamente puedan acceder los nicks registrados. 
 
-Al final de la partida del torneo, el scripter debe enviar el archivo de resultados generado por el bot ayudándose del menú de scripters en la web . En caso de problemas, como la pérdida de puntos por nick incorrecto o una reclamación por trampas, el scripter debe hacer llegar el log de la partida al comité de reclamaciones, y en caso de que lo soliciten, a los capitanes de los equipos participantes en la partida. 
+Al final de la partida del torneo, el scripter debe enviar el archivo de resultados generado por el bot ayudándose del [menú de scripters en la web](http://www.trivial-irc.es/bot.php). En caso de problemas, como la pérdida de puntos por nick incorrecto o una reclamación por trampas, el scripter debe hacer llegar el log de la partida al comité de reclamaciones, y en caso de que lo soliciten, a los capitanes de los equipos participantes en la partida. 
 
 <div id="pililazo" />
 ### Acierto de pilila
