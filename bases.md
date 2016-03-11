@@ -31,14 +31,14 @@
   * [Coordinación de plantillas](#coordinacion-plantillas)
   * [Comité de reclamaciones](#comite-reclamaciones)
 
-* [Sanciones]}(#sanciones)
-* [Sanciones y Trampas }(#sanciones-trampas)
-  * [Copypaste, uso de alias y google}(#google)
-  * [Chivatazos}(#chivatazos)
-  * [Sustitución}(#sustitucion)
-  * [Uso de bots o antiscripts }(#bots)
-  * [Pertenencia de un jugador a dos o más equipos simultáneamente }(#dos-equipos)
-  * [Nuevas sanciones}(#nuevas-sanciones)
+* [Sanciones](#sanciones)
+* [Sanciones y Trampas](#sanciones-trampas)
+  * [Copypaste, uso de alias y google](#google)
+  * [Chivatazos](#chivatazos)
+  * [Sustitución](#sustitucion)
+  * [Uso de bots o antiscripts](#bots)
+  * [Pertenencia de un jugador a dos o más equipos simultáneamente](#dos-equipos)
+  * [Nuevas sanciones](#nuevas-sanciones)
 # Competiciones del torneo
 
 El calendario estará disponible en la web del torneo, e incluirá todas las partidas oficiales del mismo, indicando los enfrentamientos entre los equipos, canales donde se juegue y scripters de las partidas. 
