@@ -7,7 +7,7 @@
     * [Torneo posiciones](#posiciones)
 
 * [Equipos y capitanes](#equipos)  
-
+* [Normativa sobre inscripciones y plantillas en general](#inscripciones)
 
 
 <div id='competiciones'/>
@@ -85,7 +85,7 @@ Al final, el ganador será el equipo que obtenga mayor puntuación tras sumar lo
 
 En caso de empates entre equipos, se da prioridad al equipo con más victorias; si persiste el empate, al que más segundos puestos haya obtenido y así hasta que deshagamos el empate.
 
-
+<div id="equipos" />
 ### Equipos y capitanes
 
 Los equipos deben estar constituidos por entre 5 y 10 jugadores, que deberán tener registrados los nicks con los que se inscriban al torneo desde el momento de la inscripción, y obligatoriamente deben tener un capitán, elegido por los jugadores del equipo. **Ningún jugador inscrito en el torneo (sea en la fase que sea) podrá participar en dos o más equipos de torneo, únicamente podrá formar parte de una plantilla.**
@@ -96,9 +96,10 @@ Para llevar a cabo sus funciones representativas, el capitán pertenecerá al [g
 
 En caso de reiterada conducta inadecuada del capitán (no cumplir con sus labores, sanciones por el comité de reclamaciones, molestar, etc), la coordinación del torneo se reserva el derecho de inhabilitar a un capitán y que su equipo elija otro. 
 
+<div id="inscripciones" />
 ## Normativa sobre inscripciones y plantillas en general
 
-### Plantillas para el torneo: 
+### Plantillas para el torneo
 
 Dos semanas antes de comenzar un torneo, la coordinación de plantillas abrirá el plazo de "plantillas iniciales", que durará una semana, y en el que se debe enviar a la coordinación a través del apartado correspondiente para capitanes en la web la hoja de equipos normalizada, cumplimentada con los datos del equipo (nombre, colores, capitán) y al menos 7 de los jugadores que lo componen. En caso de error, puede volver a enviarse la hoja de inscripción, pero sólo el último envío será válido, y lo será tal cual se envíe (no vale "los 3 de la otra hoja y los 4 de esta"). Una vez cerrado el plazo no se admiten cambios de jugadores o de nicks sobre lo ya enviado, salvo error tipográfico al escribir un nick. 
 
@@ -106,7 +107,7 @@ La semana anterior al torneo, la coordinación de plantillas cerrará el plazo d
 
 En casos justificados (época de fiestas, etc.) estos plazos podrán ser ampliados para facilitar que los equipos puedan presentar a tiempo sus plantillas. 
 
-### Copa y master: 
+### Copa y master
 La semana anterior a comenzar la copa temática correspondiente, la coordinación de plantillas solicitará la plantilla para la copa temática correspondiente y para el master de equipos. 
 
 ## Equipos nuevos
@@ -128,6 +129,6 @@ No pueden hacerse cambios de nick durante el torneo. La única causa justificada
 ### Cambios de nombre de equipos
 Sólo pueden realizarse de un torneo para el siguiente. Para cambiar el nombre de un equipo, se requiere que el 70% de sus miembros en el torneo anterior permanezcan en el equipo. En caso contrario, se consideraría al equipo una nueva incorporación, dándole la misma prioridad en la entrada del torneo que si se hubiera inscrito en la misma fecha en la que se envíe la hoja de equipos con el nuevo nombre. En todo cambio de nombre se requiere la notificación previa al comité de plantillas. 
 
-Asistencia mínima: 
+### Asistencia mínima
 Al menos 4 jugadores de cada equipo deben participar en cada jornada regular del torneo. De no ser así, se entenderá que los jugadores del equipo han sido inscritos para "ocupar plaza" y el equipo será sancionado con un torneo sin participar.Al menos 3 jugadores de cada equipo deben participar en cada jornada regular del torneo. De no ser así, se entenderá que los jugadores del equipo han sido inscritos para "ocupar plaza". Cuando esto ocurra por primera vez, el equipo será apercibido, de modo que si vuelve a suceder en alguna de las siguientes 4 partidas será sancionado con un torneo sin participar.
 En el caso de que un 70% de los jugadores del equipo coincideran con el que recibió el apercibimiento, se considería el mismo equipo y por tanto la sanción se aplicaría. 
