@@ -281,3 +281,117 @@ En circunstancias especiales (como vacíos normativos respecto a alguna circunst
 
 El puesto tiene duración anual y será elegido por votación entre los candidatos presentados.
 
+
+<div id="sanciones" />
+## Sanciones
+
+1. Cualquier problema o incidencia en las partidas que se quiera solucionar será remitido al Comité de Reclamaciones del Torneo, el cual intentará dar una solución justa lo más rápidamente posible: reclamaciones.tirc@gmail.com . 
+
+2. El comité de reclamaciones está compuesto por tres personas elegidas mediante votación el foro de capitanes. Su misión es dar una respuesta rápida a las posibles incidencias y reclamaciones que puedan surgir en las partidas del Torneo, considerando este como liguilla, semifinales, finales, master, copa y resto de competiciones que la organización decida implementar dentro del calendario oficial del torneo. 
+
+3. Las quejas referentes a alguna partida del Torneo, sólo se tendrán en cuenta si dicha queja ha llegado hasta el Comité de Reclamaciones en un plazo de 5 días a partir de del día de la partida. 
+
+4. El Comité podrá actuar de oficio. Tomará decisiones respecto a un tema si recibe una queja concreta o existe sospecha de una irregularidad. Mediante un portavoz comunicará el veredicto en el hilo de Reclamaciones. 
+
+5. Ni lag, ni splits, ni problemas en la red ajenos a la Organización del Torneo, son motivos de repetición de una partida. No obstante, el scripter encargado de la partida deberá anunciar claramente por qué servidor conectará el Script antes del comienzo de la partida. En el caso de que caiga el bot en el momento de lanzar la pregunta, se vea o no en pantalla, y acto seguido vuelva al canal, se acierte o no se acierte, se considerará esa pregunta como nula y tras la pregunta 35 se procederá a su repetición. 
+
+
+<div id="sanciones-trampas" />
+## Sanciones y Trampas 
+
+El comité de reclamaciones del torneo de trivial-irc ha decidido aprobar el siguiente texto en relación a lo que será tipificado como trampa en las partidas del torneo, así como las sanciones aplicables a cada una de las acciones o hechos calificados como trampas. 
+
+<div id="google" />
+### Copypaste, uso de alias y google
+**Descripción**
+
+Será considerado Copy-Paste el uso del ratón, para copiar de una manera rápida lo que ha respondido otro jugador previamente. 
+
+Será considerado alias la utilización de una combinación rápida de teclas para la respuesta de una pregunta. 
+
+Será considerado Google la utilización de este buscador o cualquier otro para la respuesta de una de las preguntas. 
+
+**Sanción **
+
+La sanción en caso de que se demuestre que en efecto se ha utilizado uno de estos métodos es la siguiente: 
+
+Eliminación de todos los puntos obtenidos en la partida por el infractor, y la imposibilidad de jugar durante 4 partidas de torneo regular incluyendo otras competiciones (copas, masters), que haya en ese período de tiempo. 
+Si el infractor es reincidente, por el segundo paste, alias o google, significará la expulsión definitiva. 
+
+<div id="chivatazos" />
+### Chivatazos
+
+**Descripción**
+
+Al margen de cualquier otro factor comparativo, se considera el transmitir una respuesta por cualquier medio (incluyendo cualquier forma de comunicación privada dentro del canal de la partida, y excluyendo los mensajes públicos dentro de ese canal) a otro(s) miembro(s) de tu equipo, con el fin o con el efecto de que esa respuesta sea copiada, como una práctica ilegal, y no se limitará a jugadores del equipo, sino también a jugadores externos. 
+
+** Sanción**
+
+El jugador que haya chivado la respuesta será sancionado sin poder durante 4 partidas de torneo regular, así como la imposibilidad de jugar ninguna otra partida recogida en el calendario oficial en curso en ese periodo de tiempo. En caso de no jugar torneo la sanción se cumplirá cuando lo juegue. En caso de reincidencia será expulsado del torneo. 
+Restarle al total de puntos del equipo una cantidad equivalente a los puntos anulados. 
+
+<div id="sustitucion" />
+### Sustitución
+
+** Descripción**
+
+Se considera sustitución ceder el nick a otra persona para ser suplantado en partidas de Torneo, contemplándose como excepciones las de personas que cohabiten con el propietario (o animales habilidosos como alguien indicó en su día) 
+
+**Sanción**
+
+Colocar al equipo infractor en último lugar en la partida y otorgarle como puntuación final, la mitad de los puntos obtenidos por el último clasificado de la misma. Si se produce reincidencia en el mismo equipo (de trampa, no de suplantado o suplantador), y el hecho era conocido por el capitán del equipo y no lo puso en conocimiento de la Organización, se procederá a su expulsión del torneo a perpetuidad, así como la imposibilidad de volver a ejercer como capitán de ningún otro equipo para dicho jugador. 
+Sanciones para el suplantado: Imposibilidad de jugar durante 4 partidas de torneo regular incluyendo otras competiciones (copas, masters), que haya en ese período de tiempo. La reincidencia significará la expulsión definitva del torneo. 
+Sanciones para el suplantador (si también juega el torneo en otro equipo): Imposibilidad de jugar durante 4 partidas de torneo regular incluyendo otras competiciones (copas, masters), que haya en ese período de tiempo. En caso de reincidencia será expulsado del torneo. 
+Para ambos: Si la suplantación se produce en la última partida de la liguilla, partidas de promoción, cuartos, semifinales o final. El jugador no podrá participar en el siguiente torneo. 
+
+
+<div id="bots" />
+### Uso de bots o antiscripts 
+
+**Descripción**
+Se considerará trampa, la utilización de cualquier BOT o Antiscript o medio mecánico, así como los métodos de búsqueda de repuestas en el fichero de preguntas, que permita al jugador conocer las respuestas de manera previa o que bien las escriba por el. 
+
+**Sanción**
+
+Expulsión del Torneo durante 4 partidas de torneo oficial más el resto de competiciones que haya en ese periodo. 
+Sustitución de todas sus puntuaciones anteriores en el presente Torneo por cero, a efectos del RJTI, y también a efectos de puntos aportados al equipo siempre que el Comité de Reclamaciones estime, ante las pruebas aportadas, que pudo utilizarse este método en alguna de ellas. 
+Imposibilidad de jugar durante 4 partidas de torneo regular incluyendo otras competiciones que haya en ese período de tiempo para los compañeros de equipo que conociesen y consintiesen la utilización del antiscript por parte del infractor, sin ponerlo en conocimiento de su capitán, así como la puesta a cero de todas sus puntuaciones. 
+
+Expulsión del capitán del equipo durante 4 partidas de torneo regular incluyendo el resto de competiciones que haya en ese periodo de tiempo si el uso del BOT era conocido o consentido por él y no lo puso en conocimiento de la Organización o el Comité de Reclamaciones. Sanción extraordinaria de eliminación del Torneo siguiente o expulsión definitiva del torneo para el capitán si se estima premeditación o malintencionalidad clara en el hecho. 
+
+Repetición de la partida en que fue detectado el BOT siempre y cuando el Comité de Reclamaciones estime que los resultados quedan plenamente desvirtuados o perjudican claramente a alguno de los equipos implicados. 
+
+
+<div id="dos-equipos" />
+### Pertenencia de un jugador a dos o más equipos simultáneamente 
+
+**Descripción**
+Ningún jugador inscrito en el torneo (sea en la fase que sea) podrá participar en dos o más equipos de torneo, únicamente podrá formar parte de una plantilla y en caso de detectarse por error será subsanado y corregido inmediatamente a traves de la coordinación de plantillas. 
+
+**Sanción**
+
+_Si el hecho no es conocido por el capitán_
+
+Eliminación de todos los puntos obtenidos por el jugador en todas las partidas disputadas en el torneo en curso en todos (tantas como en equipos haya jugado). Prohibición para el jugador de participar en el torneo y toda competición que lo componga durante 4 partidas no puediendo el equipo sustituir al jugador.
+Si la sanción tuviera lugar por hechos ocurridos en la ultima jornada de torneo, fases finales o promociones el jugador no podrá participar en todo el torneo siguiente no puediendo el equipo incluir otro jugador para sustituir al sancionado.
+En caso de reincidencia se procederá a expulsar a perpetuidad al jugador.
+
+_Si el hecho es conocido por el capitán del equipo u otros miembros_
+
+En el caso de que el capitán del equipo u otro miembro del equipo tuviera conocimiento de este hecho y no lo pusieran en conocimiento inmediato del comité de reclamaciones, coordinación o la coordinación de plantillas, la sanción será la misma que en el punto anterior tanto para el jugador "duplicado" (ver sanción si no lo conoce) como para el capitán o jugador que conociera el hecho, con el añadido de la imposibilidad de ejercer como capitán de ningun equipo por un periodo indefinido de tiempo en caso de ser el capitán del mismo.
+Si se produjera reincidencia en la sanción de jugador "duplicado" conociendolo el capitán o un jugador del equipo (mismo capitán y mismo jugador) se procederá a la expulsión del torneo a perpetuidad de esos miembros que tuvieran constancia del hecho.
+
+
+<div id="nuevas-sanciones" />
+### Nuevas sanciones
+
+Alineación indebida: (Esta infracción no se considerará para el computo acumulativo de sanciones por equipo) Se considerará alineación indebida cuando en partidas de copa o master responda un jugador de más en un equipo. Se considerará que la alineación titular serán aquellas 4 personas (o 2 en caso de master) que hayan respondido por primera vez en orden cronológico. La sanción para la violación de esta norma consistirá en la pérdida de 1 punto por pregunta jugada por el jugador de más; y en el caso de que puntue se le restarán los puntos hechos más una cantidad equivalente por los puntos conseguidos por ese jugador de más. 
+
+Actividad antideportiva: (Esta infracción no se considerará para el computo acumulativo de sanciones por equipo) Se considerará actividad antideportiva a cualquier tipo de comportamiento destinado a poner en desventaja a participantes en la partida en cuestión o dificultar la celebración de la misma, por ejemplo, patear/banear a jugadores, bot o scripter del canal donde se juegue, laguear (por el medio que sea) a otros jugadores o al bot, etc. La sanción para estas acciones consistirá en la expulsión inmediata de la partida y del torneo en juego, pudiendo reincorporarse al mismo en el siguiente, así como la perdida de todos los puntos conseguidos en dicha partida y la resta al total de puntos del equipo una cantidad equivalente a los puntos anulados. 
+
+Insultos: (Esta infracción no se considerará para el computo acumulativo de sanciones por equipo) Serían las ofensas a otras personas por la provocación mediante palabras o acciones (quedan fuera de esta definición aquellas palabras y/o acciones que se realicen por compadreo). Estas palabras y/o acciones estarán sujetas al criterio del scripter, el cual deberá atender a las posibles quejas de los jugadores por este motivo. La sanción para la violación de esta norma será la expulsión inmediata de la partida en juego, así como la perdida de todos los puntos conseguidos en dicha partida y la resta al total de puntos del equipo una cantidad equivalente a los puntos anulados (para esto tendría que mediar una reclamación). 
+*Antes de llevar a cabo estas acciones el Scripter deberá ponerse en contacto con el jugador en cuestión para que desista en su comportamiento, si no desiste se le pedirá a su capitán que interceda por él. Como último recurso se recurrirá a la expulsión y al protocolo descrito más arriba. 
+
+Sanción de equipo: Cuando un equipo lleve tres sanciones acumuladas, se sancionará al equipo con una partida sin jugar, ya que tres partidas se cree que es suficiente margen como para que un equipo tome medidas ante la reincidencia en las trampas de un jugador. Si las sanciones llegan a cinco acumuladas, el equipo será expulsado del torneo a perpetuidad. 
+
+Sanciones incumplidas en el torneo en curso: Para evitar cambios de nicks de jugadores de un torneo a otro y que las sanciones queden como un mero registro, no se podrá cambiar a un jugador hasta que se haya cumplido el periodo de sanción establecido para él, en el caso en que este abandone el torneo y no haya cumplido su sanción. Por ejemplo si el jugador fulanito jugaba en menganitos y la ultima jornada se le sancionó con una partida, si deja el torneo, menganitos no podrá sustituirlo hasta la segunda jornada. Y cuando fulanito vuelva a jugar el torneo cumplirá su sanción a nivel individual.
