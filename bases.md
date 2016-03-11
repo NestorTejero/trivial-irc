@@ -31,6 +31,14 @@
   * [Coordinación de plantillas](#coordinacion-plantillas)
   * [Comité de reclamaciones](#comite-reclamaciones)
 
+* [Sanciones]}(#sanciones)
+* [Sanciones y Trampas }(#sanciones-trampas)
+  * [Copypaste, uso de alias y google}(#google)
+  * [Chivatazos}(#chivatazos)
+  * [Sustitución}(#sustitucion)
+  * [Uso de bots o antiscripts }(#bots)
+  * [Pertenencia de un jugador a dos o más equipos simultáneamente }(#dos-equipos)
+  * [Nuevas sanciones}(#nuevas-sanciones)
 # Competiciones del torneo
 
 El calendario estará disponible en la web del torneo, e incluirá todas las partidas oficiales del mismo, indicando los enfrentamientos entre los equipos, canales donde se juegue y scripters de las partidas. 
@@ -325,7 +333,7 @@ Si el infractor es reincidente, por el segundo paste, alias o google, significar
 
 Al margen de cualquier otro factor comparativo, se considera el transmitir una respuesta por cualquier medio (incluyendo cualquier forma de comunicación privada dentro del canal de la partida, y excluyendo los mensajes públicos dentro de ese canal) a otro(s) miembro(s) de tu equipo, con el fin o con el efecto de que esa respuesta sea copiada, como una práctica ilegal, y no se limitará a jugadores del equipo, sino también a jugadores externos. 
 
-** Sanción**
+**Sanción**
 
 El jugador que haya chivado la respuesta será sancionado sin poder durante 4 partidas de torneo regular, así como la imposibilidad de jugar ninguna otra partida recogida en el calendario oficial en curso en ese periodo de tiempo. En caso de no jugar torneo la sanción se cumplirá cuando lo juegue. En caso de reincidencia será expulsado del torneo. 
 Restarle al total de puntos del equipo una cantidad equivalente a los puntos anulados. 
@@ -349,6 +357,7 @@ Para ambos: Si la suplantación se produce en la última partida de la liguilla,
 ### Uso de bots o antiscripts 
 
 **Descripción**
+
 Se considerará trampa, la utilización de cualquier BOT o Antiscript o medio mecánico, así como los métodos de búsqueda de repuestas en el fichero de preguntas, que permita al jugador conocer las respuestas de manera previa o que bien las escriba por el. 
 
 **Sanción**
