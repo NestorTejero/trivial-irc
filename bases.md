@@ -26,6 +26,11 @@
   * [Ascensos y Descensos](#ascensos-descensos)
   * [Promociones](#promociones)
 
+* [Comités y normas](#comites)
+  * [Coordinación](#coordinacion)
+  * [Coordinación de plantillas](#coordinacion-plantillas)
+  * [Comité de reclamaciones](#comite-reclamaciones)
+
 # Competiciones del torneo
 
 El calendario estará disponible en la web del torneo, e incluirá todas las partidas oficiales del mismo, indicando los enfrentamientos entre los equipos, canales donde se juegue y scripters de las partidas. 
@@ -185,7 +190,6 @@ Si en el transcurso de una pregunta, el bot concede acierto a algún jugador cuy
 
 <div id="estructura-torneo" />
 ## Estructura del torneo
-Torneo: 
 
 Se dividirá en Divisiones, en las que el número de equipos variará según las necesidades del calendario. 
 
@@ -243,3 +247,37 @@ Los 2 últimos equipos de cada división pasan inmediatamente a la división inf
 ### Promociones
 
 7º de cada división contra 3º de la inferior. 
+
+
+<div id="comites" />
+## Comités y normas
+
+<div id="coordinacion" />
+### Coordinación
+
+Se encarga de poner los medios para celebrar las partidas del torneo: fechas, canales, scripters, sorteos, y elaboración y publicación de listas de jugadores para las competiciones, convocatoria y recuento de votaciones acerca de diferentes temas (elecciones comités, propuestas, etc), y en caso de que las tengan, también proponer mejoras para el torneo (que también deberán ser votadas). 
+
+En circunstancias especiales (como vacíos normativos respecto a algún asunto, por ejemplo), la coordinación podrá tomar decisiones de urgencia que serán válidas hasta el final del torneo en curso. Además, desde el momento en que se produzca la circunstancia se abrirá un proceso para proponer y votar la mejor solución al problema para incorporarla a las normas. 
+
+El puesto tiene duración anual y será elegido por votación entre los candidatos presentados. 
+
+
+<div id="coordinacion-plantillas" />
+### Coordinación de plantillas
+
+Se encarga de la elaboración de las bases de datos necesarias para la celebración de las partidas. Para ello, se encarga de gestionar los plazos de inscripciones adecuados y recopilar la información correspondiente acerca de equipos y jugadores (incluyendo la de los cambios de jugadores durante el torneo). 
+
+El puesto tiene duración anual y será elegido por votación entre los candidatos presentados. 
+
+
+<div id="comite-reclamaciones" />
+### Comité de reclamaciones
+
+Se encarga de tomar las decisiones respecto a las posibles reclamaciones que puedan presentarse sobre lo acontecido durante las partidas (puntos perdidos por nicks mal puestos, trampas, problemas con el scripteo, preguntas que deben repetirse, etc). El comité de reclamaciones no tiene potestad para invalidar las decisiones tomadas por la coordinación del torneo (ya que las decisiones de la coordinación se referirán a la organización del torneo, mientras que las del comité de reclamaciones se refieren a las partidas). 
+
+El comité estará compuesto siempre por un número impar de jugadores para evitar el empate en las votaciones internas, y el puesto es incompatible con el de coordinador y coordinador de plantillas. 
+
+En circunstancias especiales (como vacíos normativos respecto a alguna circunstancia en las partidas), el comité se reunirá con la coordinación del torneo para consultas y podrá tomar decisiones de urgencia que serán válidas hasta el final del torneo en curso. Además, desde el momento en que se produzca la circunstancia se abrirá un proceso para proponer y votar la mejor solución al problema para incorporarla a las normas. 
+
+El puesto tiene duración anual y será elegido por votación entre los candidatos presentados.
+
