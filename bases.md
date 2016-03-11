@@ -2,8 +2,8 @@
 * [Competiciones del torneo](#competiciones)
 * [Torneo](#torneo)
 * [Otras competiciones](#otras-competiciones)
-** [Master equipos](#master-equipos)
-** [Torneo posiciones](#posiciones)
+  * [Master equipos](#master-equipos)
+  * [Torneo posiciones](#posiciones)
 
 
 <div id='competiciones'/>
