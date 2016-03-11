@@ -13,33 +13,11 @@
   * [Cambios de nick durante el torneo](#cambios-nick)
   * [Cambios de nombre de equipos](#cambios-nombre-equipo)
   * [Asistencia mínima](#asistencia-minima)
+  * [Copa y master](#plantillas-copa-master)
+  * [Equipos nuevos](#equipos-nuevos)
+  * [Plazos](#plazos)
 
-<div id="plantillas-torneo" />
-### Plantillas para el torneo
-
-Dos semanas antes de comenzar un torneo, la coordinación de plantillas abrirá el plazo de "plantillas iniciales", que durará una semana, y en el que se debe enviar a la coordinación a través del apartado correspondiente para capitanes en la web la hoja de equipos normalizada, cumplimentada con los datos del equipo (nombre, colores, capitán) y al menos 7 de los jugadores que lo componen. En caso de error, puede volver a enviarse la hoja de inscripción, pero sólo el último envío será válido, y lo será tal cual se envíe (no vale "los 3 de la otra hoja y los 4 de esta"). Una vez cerrado el plazo no se admiten cambios de jugadores o de nicks sobre lo ya enviado, salvo error tipográfico al escribir un nick. 
-
-La semana anterior al torneo, la coordinación de plantillas cerrará el plazo de "plantillas iniciales" y abrirá el plazo de "completar plantillas". En ese plazo NO se aceptan equipos nuevos. Los equipos presentados en el plazo de "plantillas iniciales" podrán enviar también mediante el apartado correspondiente para capitanes en la web los 3 jugadores que restan para completar el equipo (obviamente en el caso de que se dispongan de esos tres huecos). Para este fin no es necesario adjuntar de nuevo la hoja de plantillas. Basta con decir "fichamos a fulanito" en el cuadro de observaciones. Los 3 jugadores pueden enviarse en el mismo mensaje o en diferentes mensajes. El plazo se cierra el día antes de comenzar el torneo. 
-
-En casos justificados (época de fiestas, etc.) estos plazos podrán ser ampliados para facilitar que los equipos puedan presentar a tiempo sus plantillas. 
-
-<div id="plantillas-copa-master" />
-### Copa y master
-La semana anterior a comenzar la copa temática correspondiente, la coordinación de plantillas solicitará la plantilla para la copa temática correspondiente y para el master de equipos. 
-
-<div id="equipos-nuevos" />
-### Equipos nuevos
-La incorporación de equipos nuevos al torneo depende de la compatibilidad con el calendario. Si el calendario es desfavorable, la coordinación podrá aplazar la incorporación de un equipo hasta que aparezca otra nueva inscripción más. La incorporación al torneo se producirá en la categoría más baja. 
-
-<div id="plazos" />
-### Plazos
-Se considera que un plazo termina el día indicado a las 23:59. La hora que se usará para validar esto, es la hora de recepción del mensaje en el servidor de correo de la coordinación de plantillas. 
-
-
-
-
-<div id='competiciones'/>
-## Competiciones del torneo
+# [Competiciones del torneo](#competiciones)
 
 El calendario estará disponible en la web del torneo, e incluirá todas las partidas oficiales del mismo, indicando los enfrentamientos entre los equipos, canales donde se juegue y scripters de las partidas. 
 
