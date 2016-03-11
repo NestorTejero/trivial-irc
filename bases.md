@@ -1,9 +1,9 @@
 # Tabla de contenidos
 * [Competiciones del torneo](#competiciones)
-* [Torneo](#torneo)
-* [Otras competiciones](#otras-competiciones)
-  * [Master equipos](#master-equipos)
-  * [Torneo posiciones](#posiciones)
+  * [Torneo](#torneo)
+  * [Otras competiciones](#otras-competiciones)
+    * [Master equipos](#master-equipos)
+    * [Torneo posiciones](#posiciones)
 
 * [Equipos y capitanes](#equipos)  
 
