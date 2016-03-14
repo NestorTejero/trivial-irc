@@ -324,7 +324,7 @@ Será considerado alias la utilización de una combinación rápida de teclas pa
 
 Será considerado Google la utilización de este buscador o cualquier otro para la respuesta de una de las preguntas. 
 
-**Sanción **
+**Sanción**
 
 La sanción en caso de que se demuestre que en efecto se ha utilizado uno de estos métodos es la siguiente: 
 
