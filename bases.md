@@ -346,7 +346,7 @@ Restarle al total de puntos del equipo una cantidad equivalente a los puntos anu
 <div id="sustitucion" />
 ### Sustitución
 
-** Descripción**
+**Descripción**
 
 Se considera sustitución ceder el nick a otra persona para ser suplantado en partidas de Torneo, contemplándose como excepciones las de personas que cohabiten con el propietario (o animales habilidosos como alguien indicó en su día) 
 
