@@ -44,6 +44,7 @@
 * [REVISIÓN Y MODIFICACIÓN DE LAS NORMAS](#revision-normas)
 
 
+<div id='competiciones'/>
 # Competiciones del torneo
 
 El calendario estará disponible en la web del torneo, e incluirá todas las partidas oficiales del mismo, indicando los enfrentamientos entre los equipos, canales donde se juegue y scripters de las partidas. 
