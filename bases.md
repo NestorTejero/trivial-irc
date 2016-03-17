@@ -207,7 +207,7 @@ Si en el transcurso de una pregunta, el bot concede acierto a algún jugador cuy
 
 Se dividirá en Divisiones, en las que el número de equipos variará según las necesidades del calendario. 
 
-En cada división habrá una clasificación por equipos y una clasificación individual. Además, habrá una clasificación para todos los jugadores indistintamente de la división a la que pertenezcan, llamada RJTI (Ranking de Jugadores de Trivial-IRC).
+En cada división habrá una clasificación por equipos y una clasificación individual. <strike>Además, habrá una clasificación para todos los jugadores indistintamente de la división a la que pertenezcan, llamada RJTI (Ranking de Jugadores de Trivial-IRC).</strike>
 
 * Las clasificaciones individuales se elaborarán en base al número total de aciertos en la fase regular del torneo de cada jugador. 
 * El RJTI seguirá un modelo aún por determinar, pero sólo se calcula con los resultados de la fase regular. 
