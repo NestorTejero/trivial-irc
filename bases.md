@@ -7,15 +7,15 @@
     * [Torneo posiciones](#posiciones)
 
 * [Equipos y capitanes](#equipos)  
-* [Normativa sobre inscripciones y plantillas en general](#inscripciones)
-  * [Plantillas para el torneo](#plantillas-torneo)
-  * [Cambios de jugadores](#cambios-jugadores)
-  * [Cambios de nick durante el torneo](#cambios-nick)
-  * [Cambios de nombre de equipos](#cambios-nombre-equipo)
-  * [Asistencia mínima](#asistencia-minima)
-  * [Copa y master](#plantillas-copa-master)
-  * [Equipos nuevos](#equipos-nuevos)
-  * [Plazos](#plazos)
+  * [Normativa sobre inscripciones y plantillas en general](#inscripciones)
+		  * [Plantillas para el torneo](#plantillas-torneo)
+		  * [Cambios de jugadores](#cambios-jugadores)
+	 * [Cambios de nick durante el torneo](#cambios-nick)
+	 * [Cambios de nombre de equipos](#cambios-nombre-equipo)
+	 * [Asistencia mínima](#asistencia-minima)
+	 * [Copa y master](#plantillas-copa-master)
+	 * [Equipos nuevos](#equipos-nuevos)
+	 * [Plazos](#plazos)
 
 * [Scripters](#scripters)
   * [Acierto de pilila](#pililazo)
@@ -90,7 +90,7 @@ En caso de empate en las posiciones clasificatorias al final de una partida, los
 El campeón individual de la copa será el jugador que haya conseguido más puntos a lo largo de toda la competición. 
 
 <div id='otras-competiciones'/>
-### Otras competiciones: 
+### Otras competiciones
 Para cualquier otra competición organizada por la coordinación del torneo, salvo que se diga expresamente lo contrario, será necesario pertenecer a un equipo del torneo para poder participar, y se aplicarán las mismas normas que en el torneo. 
 
 En el momento de redactar estas normas, el torneo incluye además las siguientes competiciones: 
@@ -120,7 +120,7 @@ Al final, el ganador será el equipo que obtenga mayor puntuación tras sumar lo
 En caso de empates entre equipos, se da prioridad al equipo con más victorias; si persiste el empate, al que más segundos puestos haya obtenido y así hasta que deshagamos el empate.
 
 <div id="equipos" />
-### Equipos y capitanes
+# Equipos y capitanes
 
 Los equipos deben estar constituidos por entre 5 y 10 jugadores, que deberán tener registrados los nicks con los que se inscriban al torneo desde el momento de la inscripción, y obligatoriamente deben tener un capitán, elegido por los jugadores del equipo. **Ningún jugador inscrito en el torneo (sea en la fase que sea) podrá participar en dos o más equipos de torneo, únicamente podrá formar parte de una plantilla.**
 
@@ -147,15 +147,15 @@ En casos justificados (época de fiestas, etc.) estos plazos podrán ser ampliad
 La semana anterior a comenzar la copa temática correspondiente, la coordinación de plantillas solicitará la plantilla para la copa temática correspondiente y para el master de equipos. 
 
 <div id="equipos-nuevos" />
-### Equipos nuevos
+## Equipos nuevos
 La incorporación de equipos nuevos al torneo depende de la compatibilidad con el calendario. Si el calendario es desfavorable, la coordinación podrá aplazar la incorporación de un equipo hasta que aparezca otra nueva inscripción más. La incorporación al torneo se producirá en la categoría más baja. 
 
 <div id="plazos" />
-### Plazos
+## Plazos
 Se considera que un plazo termina el día indicado a las 23:59. La hora que se usará para validar esto, es la hora de recepción del mensaje en el servidor de correo de la coordinación de plantillas. 
 
 <div id="cambios-jugadores" />
-### Cambios de jugadores
+## Cambios de jugadores
 Los cambios de jugadores e incorporaciones durante el torneo se hacen con vista a la siguiente jornada, y sólo pueden hacerse durante la fase regular del torneo 
 
 En ningún caso, el jugador entrante puede haber participado en la actual edición del torneo, y en caso de un cambio, el jugador saliente no puede haber puntuado en la edición actual del torneo. 
@@ -163,16 +163,16 @@ En ningún caso, el jugador entrante puede haber participado en la actual edici�
 El último día para realizar estos cambios será siempre (para todas las divisiones) el Domingo a las 23:59 de esa semana. 
 
 <div id="cambios-nick" />
-### Cambios de nick durante el torneo
+## Cambios de nick durante el torneo
 No pueden hacerse cambios de nick durante el torneo. La única causa justificada para cambiar de nick es haber perdido el registro y que otra persona haya registrado el nick. 
 
 <div id="cambios-nombre-equipo" />
-### Cambios de nombre de equipos
+## Cambios de nombre de equipos
 Sólo pueden realizarse de un torneo para el siguiente. Para cambiar el nombre de un equipo, se requiere que el 70% de sus miembros en el torneo anterior permanezcan en el equipo. En caso contrario, se consideraría al equipo una nueva incorporación, dándole la misma prioridad en la entrada del torneo que si se hubiera inscrito en la misma fecha en la que se envíe la hoja de equipos con el nuevo nombre. En todo cambio de nombre se requiere la notificación previa al comité de plantillas. 
 
 <div id="asistencia-minima" />
-### Asistencia mínima
-Al menos 4 jugadores de cada equipo deben participar en cada jornada regular del torneo. De no ser así, se entenderá que los jugadores del equipo han sido inscritos para "ocupar plaza" y el equipo será sancionado con un torneo sin participar.Al menos 3 jugadores de cada equipo deben participar en cada jornada regular del torneo. De no ser así, se entenderá que los jugadores del equipo han sido inscritos para "ocupar plaza". Cuando esto ocurra por primera vez, el equipo será apercibido, de modo que si vuelve a suceder en alguna de las siguientes 4 partidas será sancionado con un torneo sin participar.
+## Asistencia mínima
+Al menos 3 jugadores de cada equipo deben participar en cada jornada regular del torneo. De no ser así, se entenderá que los jugadores del equipo han sido inscritos para "ocupar plaza". Cuando esto ocurra por primera vez, el equipo será apercibido, de modo que si vuelve a suceder en alguna de las siguientes 4 partidas será sancionado con un torneo sin participar.
 En el caso de que un 70% de los jugadores del equipo coincideran con el que recibió el apercibimiento, se considería el mismo equipo y por tanto la sanción se aplicaría. 
 
 
