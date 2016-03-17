@@ -194,7 +194,7 @@ Es obligatorio mostrar 2 veces los equipos antes de comenzar la partida, y una v
 
 En caso de problemas o dudas durante la partida, el capitán del equipo podrá consultar a través de privado con el scripter. Además el scripter y los capitanes estarán en un canal aparte para que en caso de problemas éstos puedan ser resueltos lo antes posible. En caso de duda del scripter, podrá preguntar a la coordinación. 
 
-Para evitar posibles problemas, el scripter podrá poner el modo +R en el canal en que se esté desarrollando la partida, de manera que únicamente puedan acceder los nicks registrados. 
+Para evitar posibles problemas, el scripter podrá poner el modo `+R` en el canal en que se esté desarrollando la partida, de manera que únicamente puedan acceder los nicks registrados. 
 
 Al final de la partida del torneo, el scripter debe enviar el archivo de resultados generado por el bot ayudándose del [menú de scripters en la web](http://www.trivial-irc.es/bot.php). En caso de problemas, como la pérdida de puntos por nick incorrecto o una reclamación por trampas, el scripter debe hacer llegar el log de la partida al comité de reclamaciones, y en caso de que lo soliciten, a los capitanes de los equipos participantes en la partida. 
 
@@ -203,7 +203,7 @@ Al final de la partida del torneo, el scripter debe enviar el archivo de resulta
 Si en el transcurso de una pregunta, el bot concede acierto a algún jugador cuya respuesta haya sido escrita antes de la aparición del enunciado, dicha pregunta se considerará nula. Será el log del bot el que determine el orden exacto de los mensajes. Al final de la partida se descontarán todos los puntos otorgados en dicha pregunta y en su lugar se jugará una pregunta adicional, con el bot configurado de tal manera que el tema jugado sea el mismo que el de la pregunta invalidada. 
 
 <div id="estructura-torneo" />
-## Estructura del torneo
+# Estructura del torneo
 
 Se dividirá en Divisiones, en las que el número de equipos variará según las necesidades del calendario. 
 
@@ -224,11 +224,11 @@ En cada torneo, la distribución de los equipos en las divisiones será correspo
 En cada torneo se distinguirá: 
 
 <div id="fase-regular" />
-### Fase regular
+## Fase regular
 Las cuatro primeras partidas del torneo, en forma de liguilla entre los equipos de cada división. Opcionalmente, y según la estructura de la división más baja, podría incluirse para esta división una 5ª partida de fase regular, que se jugaría durante los play-offs del resto de divisiones. 
  
 <div id="play-offs" />
-### Play-offs
+## Play-offs
 Partidas entre los primeros clasificados de la primera división para determinar al campeón del torneo, y entre los clasificados intermedios de cada división y los de la inmediatamente inferior para decidir los ascensos y descensos. 
 
 La distribución sería la siguiente: 
@@ -253,21 +253,21 @@ Ganadores de C y D
 ````
 
 <div id="ascensos-descensos" />
-### Ascensos y Descensos
+## Ascensos y Descensos
 
 Los 2 últimos equipos de cada división pasan inmediatamente a la división inferior. Sus plazas las ocupan los 2 primeros clasificados de esa división. 
 
 <div id="promociones" />
-### Promociones
+## Promociones
 
 7º de cada división contra 3º de la inferior. 
 
 
 <div id="comites" />
-## Comités y normas
+# Comités y normas
 
 <div id="coordinacion" />
-### Coordinación
+## Coordinación
 
 Se encarga de poner los medios para celebrar las partidas del torneo: fechas, canales, scripters, sorteos, y elaboración y publicación de listas de jugadores para las competiciones, convocatoria y recuento de votaciones acerca de diferentes temas (elecciones comités, propuestas, etc), y en caso de que las tengan, también proponer mejoras para el torneo (que también deberán ser votadas). 
 
@@ -277,7 +277,7 @@ El puesto tiene duración anual y será elegido por votación entre los candidat
 
 
 <div id="coordinacion-plantillas" />
-### Coordinación de plantillas
+## Coordinación de plantillas
 
 Se encarga de la elaboración de las bases de datos necesarias para la celebración de las partidas. Para ello, se encarga de gestionar los plazos de inscripciones adecuados y recopilar la información correspondiente acerca de equipos y jugadores (incluyendo la de los cambios de jugadores durante el torneo). 
 
@@ -285,7 +285,7 @@ El puesto tiene duración anual y será elegido por votación entre los candidat
 
 
 <div id="comite-reclamaciones" />
-### Comité de reclamaciones
+## Comité de reclamaciones
 
 Se encarga de tomar las decisiones respecto a las posibles reclamaciones que puedan presentarse sobre lo acontecido durante las partidas (puntos perdidos por nicks mal puestos, trampas, problemas con el scripteo, preguntas que deben repetirse, etc). El comité de reclamaciones no tiene potestad para invalidar las decisiones tomadas por la coordinación del torneo (ya que las decisiones de la coordinación se referirán a la organización del torneo, mientras que las del comité de reclamaciones se refieren a las partidas). 
 
@@ -297,7 +297,7 @@ El puesto tiene duración anual y será elegido por votación entre los candidat
 
 
 <div id="sanciones" />
-## Sanciones
+# Sanciones
 
 1. Cualquier problema o incidencia en las partidas que se quiera solucionar será remitido al Comité de Reclamaciones del Torneo, el cual intentará dar una solución justa lo más rápidamente posible: reclamaciones.tirc@gmail.com . 
 
