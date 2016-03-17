@@ -210,7 +210,7 @@ Se dividirá en Divisiones, en las que el número de equipos variará según las
 En cada división habrá una clasificación por equipos y una clasificación individual. <strike>Además, habrá una clasificación para todos los jugadores indistintamente de la división a la que pertenezcan, llamada RJTI (Ranking de Jugadores de Trivial-IRC).</strike>
 
 * Las clasificaciones individuales se elaborarán en base al número total de aciertos en la fase regular del torneo de cada jugador. 
-* El RJTI seguirá un modelo aún por determinar, pero sólo se calcula con los resultados de la fase regular. 
+<strike>* El RJTI seguirá un modelo aún por determinar, pero sólo se calcula con los resultados de la fase regular.</strike>
 * La clasificación de equipos se hará de la siguiente manera: Se sumarán los puntos obtenidos por cada equipo durante la fase regular, y en función de los puntos resultantes se establecerá la clasificación final. Estos puntos se asignarán de la siguiente manera: en partidas de 3 equipos, el ganador obtendrá 4, el segundo clasificado 2 y el tercer clasificado 1. Para partidas de 2 equipos el equipo ganador obtendrá 3 puntos y el segundo 1. 
  
 En caso de empate a puntos entre dos o más equipos al finalizar la fase regular, su posición final se establecerá siguiendo los siguientes criterios, y por orden: 
@@ -369,7 +369,7 @@ Se considerará trampa, la utilización de cualquier BOT o Antiscript o medio me
 **Sanción**
 
 Expulsión del Torneo durante 4 partidas de torneo oficial más el resto de competiciones que haya en ese periodo. 
-Sustitución de todas sus puntuaciones anteriores en el presente Torneo por cero, a efectos del RJTI, y también a efectos de puntos aportados al equipo siempre que el Comité de Reclamaciones estime, ante las pruebas aportadas, que pudo utilizarse este método en alguna de ellas. 
+Sustitución de todas sus puntuaciones anteriores en el presente Torneo por cero<strike>, a efectos del RJTI, y también</strike> a efectos de puntos aportados al equipo siempre que el Comité de Reclamaciones estime, ante las pruebas aportadas, que pudo utilizarse este método en alguna de ellas. 
 Imposibilidad de jugar durante 4 partidas de torneo regular incluyendo otras competiciones que haya en ese período de tiempo para los compañeros de equipo que conociesen y consintiesen la utilización del antiscript por parte del infractor, sin ponerlo en conocimiento de su capitán, así como la puesta a cero de todas sus puntuaciones. 
 
 Expulsión del capitán del equipo durante 4 partidas de torneo regular incluyendo el resto de competiciones que haya en ese periodo de tiempo si el uso del BOT era conocido o consentido por él y no lo puso en conocimiento de la Organización o el Comité de Reclamaciones. Sanción extraordinaria de eliminación del Torneo siguiente o expulsión definitiva del torneo para el capitán si se estima premeditación o malintencionalidad clara en el hecho. 
@@ -431,7 +431,7 @@ En el caso de que el bot, por cualquier motivo, no contabilice los aciertos de u
 
 Estas normas derogan toda norma anterior o no localizada en esta página. 
 
-De cara al RJTI los jugadores sancionados constará como que no han asistido a la partida y se les colocará en la última posición. 
+<strike>De cara al RJTI los jugadores sancionados constará como que no han asistido a la partida y se les colocará en la última posición. </strike>
 Los jugadores que, a fecha de la aprobación de estas normas, hayan sido sancionados desde que existe el torneo Trivial-IRC, serán considerados reincidentes en caso de volver a ser sancionados y les sancionará a tal efecto. 
 
 <div id="revision-normas" />
