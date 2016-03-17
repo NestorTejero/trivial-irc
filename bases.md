@@ -32,12 +32,12 @@
   * [Comité de reclamaciones](#comite-reclamaciones)
 
 * [Sanciones](#sanciones)
-* [Sanciones y Trampas](#sanciones-trampas)
-  * [Copypaste, uso de alias y google](#google)
-  * [Chivatazos](#chivatazos)
-  * [Sustitución](#sustitucion)
-  * [Uso de bots o antiscripts](#bots)
-  * [Pertenencia de un jugador a dos o más equipos simultáneamente](#dos-equipos)
+  * [Sanciones y Trampas](#sanciones-trampas)
+    * [Copypaste, uso de alias y google](#google)
+    * [Chivatazos](#chivatazos)
+    * [Sustitución](#sustitucion)
+    * [Uso de bots o antiscripts](#bots)
+    * [Pertenencia de un jugador a dos o más equipos simultáneamente](#dos-equipos)
   * [Nuevas sanciones](#nuevas-sanciones)
  
 * [Consideraciones finales](#consideraciones-finales)
