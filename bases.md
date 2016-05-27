@@ -5,6 +5,7 @@
   * [Otras competiciones](#otras-competiciones)
     * [Master equipos](#master-equipos)
     * [Torneo posiciones](#posiciones)
+    * [Torneo relevos](#relevos)
 
 * [Equipos y capitanes](#equipos)
   * [Normativa sobre inscripciones y plantillas en general](#inscripciones)
@@ -118,6 +119,32 @@ En caso de empates entre dos o más jugadores, la puntuación asignada a ambos s
 Al final, el ganador será el equipo que obtenga mayor puntuación tras sumar los puntos de cada uno de sus diez miembros, por eso es importante una afluencia bastante alta de jugadores.
 
 En caso de empates entre equipos, se da prioridad al equipo con más victorias; si persiste el empate, al que más segundos puestos haya obtenido y así hasta que deshagamos el empate.
+
+<div id='relevos'/>
+#### Torneo Relevos
+El Torneo Relevos es un torneo por equipos consistente en un número consecutivo de partidas temáticas, de temas distintos. En él, cada jugador puede participar en una sola partida.
+
+##### Sistema de inscripción
+Es suficiente que un equipo se inscriba como se hace en la Copa: diciendo que se apunta, sin más. Luego ya decidirá quién juega.
+
+Además, cada equipo podrá inscribir a un jugador que no esté presente en su plantilla, con la condición de que no esté inscrito en ningún otro equipo en la liga regular.
+
+##### Sistema de juego
+Se juegan tres partidas, cada una de 12 preguntas.
+
+En cada partida juegan un máximo de dos jugadores por equipo.
+
+Los jugadores pueden decidir en el momento en qué partida juegan, teniendo en cuenta que como máximo dos jugadores de su equipo pueden participar en cada tema y nadie puede participar en más de una partida.
+
+Los temas se eligen tomando uno de cada uno de los siguientes bloques:
+- Letras: Arte, Literatura, Idiomas, Filosofía, Historia, Mitología, Política, Personajes
+- Ciencia: Biologia, FyQ, Ciencia, Medicina-Salud, Informatica, Economia, Eros-sex
+- Ni fu ni fa: Música, Canciones, Cine, Deporte, Geografía, Gastronomia, Miscelanea, Cotilleo-TV
+
+##### Clasificación final
+La puntuación resulta de sumar los puntos de los jugadores en todas las partidas. Gana el equipo cuya suma total sea mayor.
+
+En caso que dos o más equipos empaten en la primera plaza tras las 36 preguntas reglamentarias, se resolverá el desempate jugando una mini partida a 6 preguntas. Se seguirá el mismo método mientras el empate persista.
 
 <div id="equipos" />
 # Equipos y capitanes
