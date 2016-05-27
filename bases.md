@@ -236,9 +236,10 @@ Se dividirá en Divisiones, en las que el número de equipos variará según las
 
 En cada división habrá una clasificación por equipos y una clasificación individual. <strike>Además, habrá una clasificación para todos los jugadores indistintamente de la división a la que pertenezcan, llamada RJTI (Ranking de Jugadores de Trivial-IRC).</strike>
 
-* Las clasificaciones individuales se elaborarán en base al número total de aciertos en la fase regular del torneo de cada jugador. 
+Las clasificaciones individuales se elaborarán en base al número total de aciertos en la fase regular del torneo de cada jugador. 
 <strike>* El RJTI seguirá un modelo aún por determinar, pero sólo se calcula con los resultados de la fase regular.</strike>
-* La clasificación de equipos se hará de la siguiente manera: Se sumarán los puntos obtenidos por cada equipo durante la fase regular, y en función de los puntos resultantes se establecerá la clasificación final. Estos puntos se asignarán de la siguiente manera: en partidas de 3 equipos, el ganador obtendrá 4, el segundo clasificado 2 y el tercer clasificado 1. Para partidas de 2 equipos el equipo ganador obtendrá 3 puntos y el segundo 1. 
+
+La clasificación de equipos se hará de la siguiente manera: Se sumarán los puntos obtenidos por cada equipo durante la fase regular, y en función de los puntos resultantes se establecerá la clasificación final. Estos puntos se asignarán de la siguiente manera: en partidas de 3 equipos, el ganador obtendrá 4, el segundo clasificado 2 y el tercer clasificado 1. Para partidas de 2 equipos el equipo ganador obtendrá 3 puntos y el segundo 1. 
  
 En caso de empate a puntos entre dos o más equipos al finalizar la fase regular, su posición final se establecerá siguiendo los siguientes criterios, y por orden: 
 
