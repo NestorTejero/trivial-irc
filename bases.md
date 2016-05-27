@@ -42,7 +42,7 @@
   * [Nuevas sanciones](#nuevas-sanciones)
  
 * [Consideraciones finales](#consideraciones-finales)
-* [REVISIÓN Y MODIFICACIÓN DE LAS NORMAS](#revision-normas)
+* [Revisión y modificación de las normas](#revision-normas)
 
 
 <div id='competiciones'/>
@@ -462,7 +462,7 @@ Estas normas derogan toda norma anterior o no localizada en esta página.
 Los jugadores que, a fecha de la aprobación de estas normas, hayan sido sancionados desde que existe el torneo Trivial-IRC, serán considerados reincidentes en caso de volver a ser sancionados y les sancionará a tal efecto. 
 
 <div id="revision-normas" />
-## REVISIÓN Y MODIFICACIÓN DE LAS NORMAS
+## Revisión y modificación de las normas
 
 Cualquier jugador del torneo podrá presentar alegaciones a estas normas, para lo cual se seguirá el siguiente procedimiento:
 
